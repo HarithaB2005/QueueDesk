@@ -1,0 +1,3 @@
+BUG|Server down|Production server not responding|frank|CRITICAL|CRITICAL|1. Check logs 2. Restart service
+FEATURE|Export to CSV|Add export button on reports page|grace|MEDIUM|12|Finance team needs monthly exports
+ACCESS|Database access|Need read access for analytics|henry|LOW|AnalyticsDB|READ

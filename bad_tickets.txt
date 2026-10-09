@@ -1,0 +1,2 @@
+BUG|Printer jam|Paper stuck in tray|zoe|HIGH|LOW|Open the tray
+FEATURE|Export button|Export to CSV|yash|SOMETIMES|5|Finance needs it
